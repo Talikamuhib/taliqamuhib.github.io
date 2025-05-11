@@ -48,8 +48,7 @@
   <div class="section">
     <h2>Introduction</h2>
     <p>Alzheimer’s disrupts the brain’s connectivity even before structural changes appear. EEG is a non-invasive way to capture these disruptions. Traditional analyses overlook spatial dependencies across channels. We propose using GSP to process EEG as graph signals, revealing spatial-frequency information that can be used for early diagnosis.</p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/EEG_cap_128.png/800px-EEG_cap_128.png" alt="128-channel EEG layout">
-    <p class="text-muted text-center">Figure: 128-channel EEG cap layout</p>
+    ![image](https://github.com/user-attachments/assets/d4c42f0c-6195-4b7b-a010-5ee4f84cf8b2)  <p class="text-muted text-center">Figure: 128-channel EEG cap layout</p>
   </div>
 
   <div class="section">
